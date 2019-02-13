@@ -14,3 +14,6 @@ Simple cart management
 * BCMath PHP Extension
 
 # Composer
+<p><a href="https://getcomposer.org/">Install composer</a>
+  and  `run` <code>composer dump-autoload</code>
+</p>
